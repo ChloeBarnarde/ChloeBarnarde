@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Chloe
 
-<!--
-**ChloeBarnarde/ChloeBarnarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Comp Sci and Statistics Student. I partically enjoy making video games, and my prefered engine/language being Unity + C#.
 
-Here are some ideas to get you started:
+## My Current WIP:
+I'm currently working on a _very_ barebones RNN in C, its mostly as a learning oppurtinity to better understand both C, and how Reccurent Neural Networks work. It's been a lot of fun so far, and I can't wait to see how it turns out when its done.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Lua - by making games in Pico8, a fantasy console**
+- C - with the above project I've mentioned
+
+
+## Socials:
+- [Instagram](https://www.instagram.com/apple_soda_art)
+- [Itch.io](https://phrogmoment.itch.io/)
